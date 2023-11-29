@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Hallehack from china 
-- 🌱 I’m currently leaning c+
+- 🌱 I’m currently leaning c and c++
+- ✨I'm learning Vim and Git,it's littlt hard
 - 📫 You can email my email at 3265810089@qq.com
